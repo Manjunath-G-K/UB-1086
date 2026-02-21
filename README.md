@@ -87,7 +87,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Author
 
-**Manjunath G K**
+**Shrinivas S N**
 
 ## Contact
 
@@ -99,8 +99,3 @@ For questions and feedback, please contact or open an issue on GitHub.
 - ML frameworks and libraries used
 - Collaborators and contributors
 
----
-
-**Status**: [In Development / Active / Maintenance]
-
-**Last Updated**: 2026-02-21
