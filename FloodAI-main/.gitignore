@@ -1,0 +1,53 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ========================
+# IDE / OS
+# ========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.lnk
+
+# ========================
+# DATA (DO NOT PUSH)
+# ========================
+SwimburneData/
+SwinburneData/
+flood_maps/
+rainfall/
+roads/
+houses/
+user_inputs/
+data/
+datasets/
+
+# CSV & GIS files
+*.csv
+*.tif
+*.tiff
+*.asc
+*.img
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+*.nc
+
+# ========================
+# OUTPUTS
+# ========================
+outputs/
+results/
+reports/
+logs/
